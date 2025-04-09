@@ -1,0 +1,2 @@
+generator from https://github.com/AI-Planning/pddl-generators
+rendering adapted from https://github.com/tomsilver/pddlgym/tree/master
